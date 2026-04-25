@@ -4,5 +4,6 @@ This project implements a K-Nearest Neighbors (KNN) classification model to anal
 whether a customer will subscribe to a term deposit.
 
 Developed as part of a DataMites data mining mini project, it focuses on building an accurate and efficient predictive system.
+edited on github
 
 ---
