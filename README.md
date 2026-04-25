@@ -1,6 +1,8 @@
 # Classification of bank marketing using knn
+---
+This project implements a K-Nearest Neighbors (KNN) classification model to analyze bank marketing data and predict 
+whether a customer will subscribe to a term deposit.
 
-In this project, a model was developed using the K-Nearest Neighbors algorithm as part of a data mining mini project at DataMites 
+Developed as part of a DataMites data mining mini project, it focuses on building an accurate and efficient predictive system.
 
-
-It gives a prediction of whether a bank customer will subscribe to a term deposit or not using the K-Nearest Neighbors algorithm.
+---
